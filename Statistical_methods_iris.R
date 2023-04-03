@@ -1,9 +1,7 @@
 
-          #Experiment 7
-          #Home Work Question
-          iris_num=data.frame(iris[,sapply(iris, is.numeric)])
-          #Experiment 7
-          #Home Work Question
+       #c209
+       #keshavi pandey
+       
           iris_num=data.frame(iris[,sapply(iris, is.numeric)])
           cor(iris_num)
           q()
